@@ -1,0 +1,28 @@
+Pinal Mahesh Patel
+
+---SHELL SORT---
+
+Sorting 1000000 numbers.
+Initializing vector: 0.437 seconds.
+Sorting vector: 4.875 seconds.
+Number of comparisons: 28912873
+Press any key to continue . . .
+
+
+---MERGE SORT---
+
+Sorting 1000000 numbers.
+Initializing vector: 0.453 seconds.
+Sorting vector: 6.016 seconds.
+Number of comparisons: 18674332
+Press any key to continue . . .
+
+
+---QUICK SORT---
+
+Sorting 1000000 numbers.
+Initializing vector: 0.453 seconds
+Sorting vector: 2.219 seconds.
+Number of comparisons: 12755648
+Press any key to continue . . .
+
