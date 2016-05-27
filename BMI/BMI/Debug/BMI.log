@@ -1,0 +1,26 @@
+﻿Build started 4/14/2016 3:17:14 PM.
+     1>Project "C:\Users\pmpate8681\documents\visual studio 2013\Projects\BMI\BMI\BMI.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BMI.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BMI.cpp Header.cpp
+         Header.cpp
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\header.cpp(1): warning C4627: '#include "BMI.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\header.cpp(2): warning C4627: '#include <functional>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\header.cpp(3): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\header.cpp(24): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         BMI.cpp
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\bmi.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\bmi.cpp(2): warning C4627: '#include <algorithm>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\bmi.cpp(3): warning C4627: '#include "BMI.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\pmpate8681\documents\visual studio 2013\projects\bmi\bmi\bmi.cpp(37): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+         Generating Code...
+     1>Done Building Project "C:\Users\pmpate8681\documents\visual studio 2013\Projects\BMI\BMI\BMI.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56
